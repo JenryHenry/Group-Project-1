@@ -5,3 +5,7 @@
 #options {
     display: none;
 }
+
+.name {
+    font-size: large;
+}
